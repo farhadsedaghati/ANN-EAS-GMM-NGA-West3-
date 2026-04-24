@@ -10,7 +10,7 @@ A Data-Driven Ground-Motion Model for Fourier Amplitude Spectra of Shallow Crust
 
 
 ## Overview
-This folder contains the saved trained ML models for the paper. The showcase code is provided to as a sample of how to load the saved model. Also some examples are provided to show how to plot the distance scaling and response spectra.
+This folder contains the saved trained ML models for the paper. The showcase code is provided to as a sample of how to load the saved model. Also some examples are provided to show how to plot the distance scaling and magnitude scaling as well as response spectra.
 
 ## Abstract <a name = "abstract"></a>
 Earthquake Amplitude Spectra (EAS) provide a physically interpretable representation of ground motion that reflects source, path, and site effects and can be used within random vibra-tion theory to estimate response spectra. In this study, we develop a data-driven ground-motion model (GMM) for EAS using the NGA-West3 database, focusing on shallow crustal earth-quakes in the western United States. The model is formulated using a multi-output artificial neural network (ANN) that predicts EAS simultaneously over a broad frequency range, allow-ing inter-frequency correlations to be learned directly from the data.
