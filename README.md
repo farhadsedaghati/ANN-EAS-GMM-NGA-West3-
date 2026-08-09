@@ -35,4 +35,4 @@ $ pip install -r requirements.txt
 ```
 
 ## Citation <a name = "citation"></a>
-Sedaghati, F., Pezeshk, S., and Davatgari-Tafreshi, M. (2026). A Data-Driven Ground-Motion Model for Fourier Amplitude Spectra of Shallow Crustal Earthquakes Using the NGA-West3 Database
+Sedaghati, F., Pezeshk, S., and Davatgari-Tafreshi, M. (2026). A Data-Driven Ground-Motion Model for Fourier Amplitude Spectra of Shallow Crustal Earthquakes Using the NGA-West3 Database, Bulletin of Earthquake Engineering.
